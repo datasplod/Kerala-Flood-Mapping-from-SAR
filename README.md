@@ -1,6 +1,6 @@
 # Kerala-Flood-Mapping-from-SAR
 
-Two methods were undertaken to map the 2018 floods in Kerala, India using Sentinel-1 SAR satellite images on Google Earth Engine.
+Two methods were undertaken to map the 2018 floods in Kerala, India using Sentinel-1 SAR satellite images in Google Earth Engine and analysis using Python.
 
 A simple change detection method:
 https://code.earthengine.google.com/?scriptPath=users%2Fn_wilson%2FKerala_flood_extents%3AKerala_Floods%2FSimple%20Method_FINAL
